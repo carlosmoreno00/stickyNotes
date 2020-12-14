@@ -1,3 +1,3 @@
 <strong>Sticky notes</strong><br>
-This project allow create notes and modify it.<br>
+This project allow create notes.<br>
 Link to the project: 
