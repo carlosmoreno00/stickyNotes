@@ -1,0 +1,39 @@
+#content {
+    width: 100vw;
+    margin: 30px;
+}
+
+#content>div {
+    float: left;
+    margin: 30px;
+    display: flex;
+    background-color: rgb(255, 253, 106);
+    padding: 2%;
+    text-align: justify;
+}
+
+#head {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+#button {
+    background-color: white;
+    border: 3px solid;
+    text-transform: uppercase;
+    height: inherit;
+    width: inherit;
+    transition: background-color 0.5s ease, color 1s ease;
+    cursor: pointer;
+}
+  
+#button:hover {
+    background-color: rgb(238, 0, 0);
+    color: white;
+}
+
+body {
+    background-image: url("../img/fondo.jpg");
+}
